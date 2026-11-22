@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+
+# CocoaPods (run `pod install` to restore)
+Pods/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Videos (not published)
+*.mp4
+*.mov

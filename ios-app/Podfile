@@ -1,0 +1,11 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '15.0'
+
+target 'SAFE_GAIT2' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for SAFE_GAIT2
+	pod 'GoogleMLKit/PoseDetectionAccurate'
+
+end
